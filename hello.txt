@@ -1,1 +1,1 @@
-HELLO GIT I AM AJAI 
+this is my second line add it to the git  
